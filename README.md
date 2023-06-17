@@ -2,9 +2,9 @@
 
 In this challenge, you’ll use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
-#Requirements
+# Requirements
 
-#Find the Best Value for k by Using the Original Data 
+# Find the Best Value for k by Using the Original Data 
 To receive all points, you must:
   * Code the elbow method algorithm to find the best value for k. Use a range from 1 to 11. 
   * To visually identify the optimal value for k, plot a line chart of all the inertia values computed with the different values of k. 
